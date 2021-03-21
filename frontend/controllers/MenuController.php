@@ -3,8 +3,8 @@ namespace frontend\controllers;
 use Yii;
 use yii\web\Controller;
 use frontend\models\Menu;
-// use app\models\Product;
-// use app\models\Info;
+use frontend\models\Product;
+use frontend\models\Info;
 // use yii\data\Pagination;
 use frontend\models\Res;
 
